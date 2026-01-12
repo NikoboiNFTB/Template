@@ -2,7 +2,7 @@
 
 This is a template folder for future repositories.
 
-## Description
+## Overview
 
 This is the description of the project.
 
@@ -19,6 +19,10 @@ Here's how to download/install/setup the project properly:
 Here's how to use the project after setting up properly, as per steps above.
 
 - Usage
+
+## Notes
+
+Here are some important notes about the project.
 
 ## File Tree
 
@@ -44,6 +48,10 @@ Here's how to use the project after setting up properly, as per steps above.
 ```
 
 >> 67!!!
+
+## Contributing
+
+Feel free to fork this repository and submit issues or pull requests if you have any suggestions or improvements. If you encounter any bugs or have feature requests, please open an issue.
 
 ## License
 
