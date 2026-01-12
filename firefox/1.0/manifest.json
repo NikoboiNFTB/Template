@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Hello World Logger",
+  "version": "1.0",
+  "description": "Logs Hello World to console on all pages",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
