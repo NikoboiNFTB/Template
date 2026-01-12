@@ -2,11 +2,11 @@
 
 This is a template folder for future repositories.
 
-# Description
+## Description
 
 This is the description of the project.
 
-# Installation
+## Installation
 
 Here's how to download/install/setup the project properly:
 
@@ -14,13 +14,13 @@ Here's how to download/install/setup the project properly:
 - Install
 - Setup
 
-# Usage
+## Usage
 
 Here's how to use the project after setting up properly, as per steps above.
 
 - Usage
 
-# File Tree
+## File Tree
 
 ```text
 .
@@ -45,6 +45,6 @@ Here's how to use the project after setting up properly, as per steps above.
 
 >> 67!!!
 
-# License
+## License
 
 This project is licenced under the GNU General Public License V3. See [LICENSE](LICENSE) for details.
