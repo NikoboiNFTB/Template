@@ -4,7 +4,7 @@ This is a template folder for future repositories.
 
 ## Overview / Features
 
-This is the description of the project.
+This should hopefully make my repositories more consistent.
 
 ## Installation
 
