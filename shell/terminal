@@ -1,8 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 set -e
-
-echo "Doing work..."
-sleep 2
-echo "Work finished!"
 
 exec bash
