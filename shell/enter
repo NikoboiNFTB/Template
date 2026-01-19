@@ -1,0 +1,8 @@
+#!/bin/bash
+set -e
+
+echo "Doing work..."
+sleep 2
+echo "Work finished!"
+
+read -p "Press enter to exit..."
