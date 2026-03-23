@@ -47,7 +47,7 @@ Here are some important notes about the project.
 6 directories, 7 files
 ```
 
->> 67!!!
+> > 67!!!
 
 ## Contributing
 
