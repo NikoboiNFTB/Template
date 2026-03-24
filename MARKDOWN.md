@@ -72,9 +72,7 @@ A markdown file divides links into two categories: **inline** and **relative**.
 
 To create an inline link in a Markdown file, wrap the link text in brackets `[ ]` followed immediately by the URL in parentheses `( )`.
 
-```markdown
 This site was built using [GitHub Pages](https://pages.github.com/).
-```
 
 [Contribution guidelines](docs/CONTRIBUTING.md)
 [Contribution guidelines](../docs/CONTRIBUTING.md)
