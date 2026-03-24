@@ -18,26 +18,15 @@ Proin volutpat faucibus nulla. Nullam eros sem, ultricies gravida nunc nec, dapi
 
 <!-- This content will not appear in the rendered Markdown -->
 
-## Bold
+**bold**
 
-**your text**
+_italics_
 
-## italics
+~~strikethrough~~
 
-_your text_
-_your text_
+<sub>subscript</sub>
 
-## strikethrough
-
-~~your text~~
-
-## subscript
-
-The subscript <sub> text </sub> is here.
-
-## superscript
-
-The subscript <sup> text </sup> is here.
+<sup> superscript </sup>
 
 > Text that is a quote
 
