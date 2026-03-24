@@ -109,6 +109,9 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 | Content Cell | Content Cell  |
 | Content Cell | Content Cell  |
 
+<details>
+  <summary>Click to here. </summary>
+
 ### You can add a message here
 
 You can add text within a collapsed section.
@@ -116,6 +119,8 @@ You can add text within a collapsed section.
 You can add an image or a code block, too.
 
 The collapsed syntax looks like this in the browser:
+
+</details>
 
 ### Creating diagrams
 
@@ -349,6 +354,3 @@ An inline math expression starts with `$` and ends with `$`.
 ```markdown
 Inline math expression example: $\sqrt{3x-1}+(1+x)^2$
 ```
-
-<details>
-  <summary>Click to here. </summary>
