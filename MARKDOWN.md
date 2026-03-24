@@ -75,7 +75,9 @@ To create an inline link in a Markdown file, wrap the link text in brackets `[ ]
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines](docs/CONTRIBUTING.md)
+
 [Contribution guidelines](../docs/CONTRIBUTING.md)
+
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 1. one
