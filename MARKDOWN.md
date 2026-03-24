@@ -168,11 +168,9 @@ The GitHub-flavored Markdown has extended the functionality of using Mermaid wit
 
 You can create flow charts, sequence diagrams, pie charts, and so on inside Markdown. GitHub handles the rest of that. So how do you render diagrams on the screen?
 
-````
-```mermaid
+````mermaid
 graph LR;
    A --  and --> B -- to --> C
-```
 ````
 
 The mermaid syntax looks like this in the browser.
