@@ -108,10 +108,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 
 ## Team or company
 
-The section blog theme is maintained by @frontendweb
-
-Remove the default \_target blank in logo #93
-
 Don't forget to leave a star on our repository! :star:
 
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
@@ -149,10 +145,6 @@ You can add text within a collapsed section.
 
 You can add an image or a code block, too.
 
-```ruby
-  puts "Hello World"
-```
-
 The collapsed syntax looks like this in the browser:
 
 ![Collapsed example in markdown.](https://www.freecodecamp.org/news/content/images/2024/04/Collapsed-in-markdown.png)
@@ -176,7 +168,7 @@ The GitHub-flavored Markdown has extended the functionality of using Mermaid wit
 
 You can create flow charts, sequence diagrams, pie charts, and so on inside Markdown. GitHub handles the rest of that. So how do you render diagrams on the screen?
 
-````markdown
+````
 ```mermaid
 graph LR;
    A --  and --> B -- to --> C
