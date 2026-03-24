@@ -144,9 +144,6 @@ You can add an image or a code block, too.
 
 The collapsed syntax looks like this in the browser:
 
-![Collapsed example in markdown.](https://www.freecodecamp.org/news/content/images/2024/04/Collapsed-in-markdown.png)
-_Collapsed example in markdown._
-
 ### Creating diagrams
 
 To add diagrams to a Markdown file, use triple backticks and wrap them inside quadruple backticks. Then, tell which identifier (Mermaid, GeoJSON, TopJSON, ASCII STL) you used for the diagram.
@@ -171,9 +168,6 @@ graph LR;
 ```
 
 The mermaid syntax looks like this in the browser.
-
-![Mermaid example in markdown.](https://www.freecodecamp.org/news/content/images/2024/04/mermaid-degram.png)
-_Mermaid example in markdown._
 
 #### GeoJSON and TopoJSON
 
@@ -367,9 +361,6 @@ endsolid
 ```
 
 The STL syntax looks like this in the browser:
-
-![STL example in markdown.](https://www.freecodecamp.org/news/content/images/2024/04/stl-example.png)
-_STL example in markdown._
 
 ### Mathematical expressions
 
