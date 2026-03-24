@@ -106,16 +106,14 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
 
-## person or individual username
-
-@officialrajdeepsingh, check out the following change.
-
 ## Team or company
 
 The section blog theme is maintained by @frontendweb
 
 Remove the default \_target blank in logo #93
+
 Don't forget to leave a star on our repository! :star:
+
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
