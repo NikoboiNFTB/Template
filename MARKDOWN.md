@@ -122,6 +122,8 @@ The collapsed syntax looks like this in the browser:
 
 </details>
 
+---
+
 ### Creating diagrams
 
 To add diagrams to a Markdown file, use triple backticks and wrap them inside quadruple backticks. Then, tell which identifier (Mermaid, GeoJSON, TopJSON, ASCII STL) you used for the diagram.
@@ -337,8 +339,6 @@ solid cube_corner
   endfacet
 endsolid
 ```
-
-The STL syntax looks like this in the browser:
 
 ### Mathematical expressions
 
