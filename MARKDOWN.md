@@ -303,7 +303,6 @@ solid cube_corner
   endfacet
 endsolid
 ````
-`````
 
 ````
 The STL syntax looks like this in the browser:
@@ -324,7 +323,9 @@ An inline math expression starts with `$` and ends with `$`.
 
 ```markdown
 Inline math expression example: $\sqrt{3x-1}+(1+x)^2$
+```
 ````
 
 <details>
   <summary>Click to here. </summary>
+`````
