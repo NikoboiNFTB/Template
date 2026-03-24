@@ -186,7 +186,6 @@ You can use code block syntax to add an interactive map.
 
 **Example using GeoJSON:**
 
-````markdown
 ```geojson
 {
   "type": "FeatureCollection",
@@ -228,17 +227,21 @@ You can use code block syntax to add an interactive map.
   ]
 }
 ```
-````
 
 **Example of TopJSON:**
 
-`````markdown
-````topojson
+```topojson
 {
   "type": "Topology",
   "transform": {
-    "scale": [0.0005000500050005, 0.00010001000100010001],
-    "translate": [100, 0]
+    "scale": [
+      0.0005000500050005,
+      0.00010001000100010001
+    ],
+    "translate": [
+      100,
+      0
+    ]
   },
   "objects": {
     "example": {
@@ -246,31 +249,90 @@ You can use code block syntax to add an interactive map.
       "geometries": [
         {
           "type": "Point",
-          "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
+          "properties": {
+            "prop0": "value0"
+          },
+          "coordinates": [
+            4000,
+            5000
+          ]
         },
         {
           "type": "LineString",
-          "properties": {"prop0": "value0", "prop1": 0},
-          "arcs": [0]
+          "properties": {
+            "prop0": "value0",
+            "prop1": 0
+          },
+          "arcs": [
+            0
+          ]
         },
         {
           "type": "Polygon",
-          "properties": {"prop0": "value0",
-            "prop1": {"this": "that"}
+          "properties": {
+            "prop0": "value0",
+            "prop1": {
+              "this": "that"
+            }
           },
-          "arcs": [[1]]
+          "arcs": [
+            [
+              1
+            ]
+          ]
         }
       ]
     }
   },
-  "arcs": [[[4000, 0], [1999, 9999], [2000, -9999], [2000, 9999]],[[0, 0], [0, 9999], [2000, 0], [0, -9999], [-2000, 0]]]
+  "arcs": [
+    [
+      [
+        4000,
+        0
+      ],
+      [
+        1999,
+        9999
+      ],
+      [
+        2000,
+        -9999
+      ],
+      [
+        2000,
+        9999
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        9999
+      ],
+      [
+        2000,
+        0
+      ],
+      [
+        0,
+        -9999
+      ],
+      [
+        -2000,
+        0
+      ]
+    ]
+  ]
 }
+```
+
 ### ASCII STL
 
 GitHub Flavored Markdown supports STL syntax. STL syntax allows you to add interactive 3D models in markdown. You can use the following syntax: ` ```stl your code.``` `
 
-```markdown
 ```stl
 solid cube_corner
   facet normal 0.0 -1.0 0.0
@@ -302,9 +364,8 @@ solid cube_corner
     endloop
   endfacet
 endsolid
-````
+```
 
-````
 The STL syntax looks like this in the browser:
 
 ![STL example in markdown.](https://www.freecodecamp.org/news/content/images/2024/04/stl-example.png)
@@ -324,8 +385,6 @@ An inline math expression starts with `$` and ends with `$`.
 ```markdown
 Inline math expression example: $\sqrt{3x-1}+(1+x)^2$
 ```
-````
 
 <details>
   <summary>Click to here. </summary>
-`````
