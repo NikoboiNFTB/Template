@@ -32,11 +32,9 @@ Comparison text <sup> superscript </sup>
 
 ## Code Block
 
-## Inline code
+### Inline Code Example
 
 JavaScript provides three different value comparison operations: strict equality using `===`, loose equality using `==`, and the `Object.is()` method.
-
-## Code Block
 
 ```javascript
 // ES5 syntax
@@ -53,7 +51,7 @@ var multiply = (x, y) => {
 var multiply = (x, y) => x * y;
 ```
 
-### Links
+## Links
 
 A markdown file divides links into two categories: **inline** and **relative**.
 
@@ -64,8 +62,6 @@ To create an inline link in a Markdown file, wrap the link text in brackets `[ ]
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 [Contribution guidelines](docs/CONTRIBUTING.md)
-
-[Contribution guidelines](../docs/CONTRIBUTING.md)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -79,23 +75,11 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 - Third item
 - Fourth item
 
-* First item
-* Second item
-* Third item
-* Fourth item
-
-- First item
-- Second item
-- Third item
-- Fourth item
-
 ## Task list
 
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
 - [ ] Add delight to the experience when all tasks are complete :tada:
-
-## Team or company
 
 Don't forget to leave a star on our repository! :star:
 
