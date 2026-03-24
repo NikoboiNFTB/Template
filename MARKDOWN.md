@@ -24,9 +24,9 @@ _italics_
 
 ~~strikethrough~~
 
-<sub>subscript</sub>
+Comparison text <sub>subscript</sub>
 
-<sup> superscript </sup>
+Comparison text <sup> superscript </sup>
 
 > Text that is a quote
 
